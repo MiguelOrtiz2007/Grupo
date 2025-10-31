@@ -1,5 +1,9 @@
 Caperucita Roja
 
 3. Brandon Guevara
+<<<<<<< HEAD
+=======
+
+>>>>>>> Guevara
 2da Parte Nudo
 Cuando Caperucita Roja llegó a la casa de la abuela, notó algo extraño. El lobo, disfrazado de abuela, intentó comerla también. Pero Caperucita Roja notó que algo andaba mal y dijo: "Abuela, ¿por qué tienes los ojos tan grandes?" y "Abuela, ¿por qué tienes los dientes tan afilados?". El lobo, impaciente, intentó saltar sobre ella, pero Caperucita Roja gritó pidiendo ayuda.
